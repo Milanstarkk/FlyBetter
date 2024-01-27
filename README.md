@@ -1,5 +1,13 @@
-# FlyBetter
-This is a simple fly plugin, there will be various updates for this plugin. 
-Permissions: flybetter. fly
- - For support contact me in Discord (milanstarkko) 
- * Discord Server https://dsg.gg/milanstarkk
+#FlyBetter
+Free plugin for in-game flying, all customizable from the config.yml
+
+#Commands:
+/flybetter -> Plugin information (Aliases: flyb, fb, fbetter)
+/flybetter reload -> Reload config.yml
+/fly -> Enable & Disable Fly (Aliases: f, fl)
+/fly on -> Enable Fly
+/fly off -> Disable Fly
+
+#Permissions:
+betterfly.fly -> Do /fly and /fly <on/off>
+betterfly.admin -> Do /flybetter reload
